@@ -1,8 +1,8 @@
 ---
-title: "Talks"
+title: "研究方向"
 layout: archive
 permalink: /talks/
 author_profile: true
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+这里就放咱们实验室的研究方向。
