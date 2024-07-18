@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "123.png"
+  avatar           : "234.png"
   name             : "张洪刚（Honggang Zhang）"
   pronouns         : # example: "she/her"  
   bio              : "模式识别实验室-人工智能学院-北京邮电大学"
