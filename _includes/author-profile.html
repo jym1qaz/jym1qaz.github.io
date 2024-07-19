@@ -18,7 +18,9 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-    {% if author.phone %}<p class="author__phone"><i class="fas fa-phone"></i> {{ author.phone }}</p>{% endif %}  <!-- 添加电话信息 -->
+    {% if author.dizhi %}<p class="author__dizhi">{{ author.dizhi }}</p>{% endif %}<!-- 添加地址信息 -->
+    {% if author.dianhua %}<p class="author__dianhua">{{ author.dianhua }}</p>{% endif %}<!-- 添加电话信息 -->
+    {% if author.youxiang %}<p class="author__youxiang">{{ author.youxiang }}</p>{% endif %}<!-- 添加邮箱信息 -->
   </div>
 
   <div class="author__urls-wrapper">
