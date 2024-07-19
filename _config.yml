@@ -25,10 +25,10 @@ author:
   name             : "张洪刚（Honggang Zhang）"
   pronouns         : # example: "she/her"  
   bio              : "模式识别实验室-人工智能学院-北京邮电大学"
-  location         : #"Earth"
-  employer         : #"Red Brick University"
+  地址              : "北京, 海淀区, 西土城路10号 100876北京邮电大学,第三教学楼,803"
+  联系电话          : "010-62283059"
   uri              : # URL
-  email            : #"none@example.org" 
+  邮箱             : "zhhg@bupt.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
