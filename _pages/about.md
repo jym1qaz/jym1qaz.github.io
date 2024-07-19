@@ -13,6 +13,8 @@ redirect_from:
   电话：010-62283059   
   邮箱：zhhg@bupt.edu.cn   
 
+地址：北京, 海淀区, 西土城路10号 100876北京邮电大学,第三教学楼,803  
+
 研究方向
 --------
 医疗图像智能识别、计算机视觉和模式识别   
@@ -26,14 +28,23 @@ redirect_from:
 Yaoting Wang*, PeiwenSun*, Yuanchao Li, Honggang Zhang, and Di Hu, Can Textual Semantics Mitigate Sounding Object Segmentation Preference?, in Proceedings of the IEEE/CVF European Conference on Computer Vision (ECCV), 2024  
 
 Yaoting Wang*, PeiwenSun*, Dongzhan Zhou*, Guangyao Li, Honggang Zhang, and Di Hu, Ref-AVS: Refer and Segment Objects in Audio-Visual Scenes, in Proceedings of the IEEE/CVF European Conference on Computer Vision (ECCV), 2024  
+
 PeiwenSun, Honggang Zhang, and Di Hu, Unveiling and Mitigating Bias in Audio Visual Segmentation, in Proceedings of the ACM Multimedia (ACM MM), 2024  
+
 [1]Lan Yang, Kaiyue Pang, Honggang Zhang, and Yi-Zhe Song, Annotation-Free Human Sketch Quality Assessment, International Journal of Computer Vision (IJCV), 2024.  
+
 [1]Zhiyu Qu, Lan Yang, Honggang Zhang, Tao Xiang, Kaiyue Pang, Yi-Zhe Song, Wired Perspectives: Multi-View Wire Art Embraces Generative AI, in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.  
+
 [2]Runqi Qiao, Lan Yang, Kaiyue Pang, and Honggang Zhang, Making Visual Sense of Oracle Bones for You and Me, in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.  
+
 [3]Ruolin Yang, Da Li, Conghui Hu, Hospedales Timothy, Honggang Zhang, Yi-Zhe Song, Sketch-based Video Object Segmentation: Benchmark and Analysis, in Proc. British Machine Vision Conference (BMVC), Nov. 2023  
+
 [1] Xiaolin Song, Binghui Chen, Pengyu Li, Jun-Yan He, Biao Wang, Yifeng Geng, Xuansong Xie, Honggang Zhang, Optimal Proposal Learning for Deployable End-to-End Pedestrian Detection, in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June. 18-22, 2023  
+
 [2] Luya Wang, Feng Liang, Yangguang Li, Wanli Ouyang, Honggang Zhang, Jing Shao, Repre: Improving self-supervised vision transformer with reconstructive pre-training, in Proc. International Joint Conference on Artificial Intelligence (IJCAI), Jul. 23-29, 2022  
+
 [3] Lan Yang, Kaiyue Pang, Honggang Zhang, Yi-Zhe Song, Finding Badly Drawn Bunnies, in Proc. of IEEE Conference on Computer Vision and Pattern Recognition(CVPR), New Orleans, Louisiana, USA, Jun. 19-23, 2022  
+
 [4] Lan Yang, Kaiyue Pang, Honggang Zhang, Yi-Zhe Song, SketchAA: Abstract Representation for Abstract Sketches, in Proc. of International Conference on Computer Vision (ICCV), Canada, Oct. 11-17, 2021  
 
 [5] Yang Tang, Wangding Zeng, Honggang Zhang, PIAP-DF: Pixel-Interested and Anti Person-Specific Facial Action Unit Detection Net with Discrete Feedback Learning, in Proc. of International Conference on Computer Vision (ICCV), Canada, Oct. 11-17, 2021  
