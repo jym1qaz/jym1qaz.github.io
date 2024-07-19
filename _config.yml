@@ -24,7 +24,10 @@ author:
   avatar           : "234.png"
   name             : "张洪刚（Honggang Zhang）"
   pronouns         : # example: "she/her"  
-  bio              : "模式识别实验室-人工智能学院-北京邮电大学   地址：北京邮电大学西土城校区 教三803  联系电话：010-62283059  邮箱：zhhg@bupt.edu.cn"
+  bio              : "模式识别实验室-人工智能学院-北京邮电大学"
+  dizhi            : "地址：北京, 海淀区, 西土城路10号 100876 北京邮电大学,第三教学楼,803"
+  dianhua          : "联系电话：010-62283059"
+  youxiang         : "邮箱：zhhg@bupt.edu.cn"
   email            : #"邮箱：zhhg@bupt.edu.cn" 
 
   # Academic websites
